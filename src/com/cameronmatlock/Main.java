@@ -7,6 +7,7 @@ public class Main {
         Wall newWallObj = new Wall();
 
         newWallObj.setWidth(1.125);
+        newWallObj.setWidth(1.444);
 
         Wall wallObj2 = new Wall(4.0, 2.0);
 
